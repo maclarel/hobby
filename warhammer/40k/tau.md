@@ -5,7 +5,7 @@
 - Blackline depths with micron pen or *heavily* diluted black primer (or black ink)
 
 # Armour plating
-- Ulthuan Grey w/ Bold Titanium White highlights
+- Celestra Grey -> Ulthuan Grey -> Bold Titanium White
 - Burnt Red -> Mephiston Red w/ deep Orange (???) Highlight
 
 # Emblems & greebles (Stealth models)
