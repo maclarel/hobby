@@ -2,11 +2,17 @@
 - Basecoat Pro Acryl Black
 - Zenethil highlight Stynylrez White
 - Max 3:1 Stynylrez White & Pro Acryl Black primer
-- Blackline depths with micron pen or *heavily* diluted black primer (or black ink)
 
 # Armour plating
 - Celestra Grey -> Ulthuan Grey -> Bold Titanium White
+
+OR
+
+- Airbrush Stynylrez White
+- Airbrush Bold Titanium White
+
 - Burnt Red -> Mephiston Red w/ deep Orange (???) Highlight
+- Blackline depths with micron pen or *heavily* diluted black primer (or black ink)
 
 # Emblems & greebles (Stealth models)
 - Burnt Red or Mephiston Red emboss
@@ -23,7 +29,7 @@
 - Six Shooter edge highlight
 
 # Primary Weapons
-- Ulthuan Grey w/ Bold Titanium highlights
+- Bold Titanium White from armour paint
 - Burnt Red -> Mephiston Red w/ deep Orange (???) highlight
 - _Glow effect_ for vents/insets
 
